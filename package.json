@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "fly": "^0.9.1"
+  }
+}
